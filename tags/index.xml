@@ -90,20 +90,20 @@
     </item>
     
     <item>
-      <title>ruby</title>
-      <link>https://example.com/tags/ruby/</link>
+      <title>Golang</title>
+      <link>https://example.com/tags/golang/</link>
       <pubDate>Thu, 08 Dec 2016 22:54:49 +0000</pubDate>
       
-      <guid>https://example.com/tags/ruby/</guid>
+      <guid>https://example.com/tags/golang/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Linux</title>
-      <link>https://example.com/tags/linux/</link>
+      <title>MacOs</title>
+      <link>https://example.com/tags/macos/</link>
       <pubDate>Tue, 29 Nov 2016 21:08:52 +0000</pubDate>
       
-      <guid>https://example.com/tags/linux/</guid>
+      <guid>https://example.com/tags/macos/</guid>
       <description></description>
     </item>
     

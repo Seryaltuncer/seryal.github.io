@@ -101,13 +101,13 @@
     <loc>https://example.com/posts/2017-01-11-php-lambada/</loc>
     <lastmod>2017-01-11T18:39:17+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/ruby/</loc>
+    <loc>https://example.com/tags/golang/</loc>
     <lastmod>2016-12-08T22:54:49+00:00</lastmod>
   </url><url>
     <loc>https://example.com/posts/2016-12-08-ruby-notes/</loc>
     <lastmod>2016-12-08T22:54:49+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/linux/</loc>
+    <loc>https://example.com/tags/macos/</loc>
     <lastmod>2016-11-29T21:08:52+00:00</lastmod>
   </url><url>
     <loc>https://example.com/posts/2016-11-29-iptables-usage/</loc>

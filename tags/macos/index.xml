@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Linux on Seryal Tuncer</title>
-    <link>https://example.com/tags/linux/</link>
-    <description>Recent content in Linux on Seryal Tuncer</description>
+    <title>MacOs on Seryal Tuncer</title>
+    <link>https://example.com/tags/macos/</link>
+    <description>Recent content in MacOs on Seryal Tuncer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>You</copyright>
-    <lastBuildDate>Tue, 29 Nov 2016 21:08:52 +0000</lastBuildDate><atom:link href="https://example.com/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 29 Nov 2016 21:08:52 +0000</lastBuildDate><atom:link href="https://example.com/tags/macos/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>netfilter/iptables 笔记</title>
       <link>https://example.com/posts/2016-11-29-iptables-usage/</link>
